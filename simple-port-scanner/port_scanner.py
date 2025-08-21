@@ -1,8 +1,7 @@
 
----
+
 
 ## 🐍 port_scanner.py
-```python
 import socket
 import concurrent.futures
 
